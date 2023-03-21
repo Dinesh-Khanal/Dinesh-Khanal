@@ -1,5 +1,4 @@
-### Hi there, I am Dinesh Khanal ![88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0](https://user-images.githubusercontent.com/50364027/226515123-4dee468b-c163-4db4-93d3-9c4d21e32cf9.gif)
-
+### Hi there, I am Dinesh Khanal <img src="https://user-images.githubusercontent.com/50364027/226515123-4dee468b-c163-4db4-93d3-9c4d21e32cf9.gif"  width="600" height="300">
 
 I'm Dinesh Khanal a Full Stack Web Developer. I Spend most of time coding outstanding projects. I am working as a freelancer and also contributing open source software.
 <!--
