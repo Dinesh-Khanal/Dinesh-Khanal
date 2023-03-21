@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 📬 Reach me out!
 
-[![Facebook Badge](https://img.shields.io/badge/-dineshkhanal@gmail.com-ccc?style=flat&labelColor=1ca0f1&logo=gmail&logoColor=white&link=dineshkhanal@gmail.com)](<mailto:dineshkhanal@gmail.com>) &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-DineshKhanal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-khanal-067700209/)&nbsp;[![Facebook Badge](https://img.shields.io/badge/-dineshkhanal-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://twitter.com/dinesh_khanal)](https://twitter.com/dinesh_khanal)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@dinesh_khanal-1ca0f?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dinesh_khanal)](https://twitter.com/dinesh_khanal)
+[![Facebook Badge](https://img.shields.io/badge/-dineshkhanal@gmail.com-ccc?style=flat&labelColor=1ca0f1&logo=gmail&logoColor=white&link=dineshkhanal@gmail.com)](<mailto:dineshkhanal@gmail.com>)&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-DineshKhanal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-khanal-067700209/)&nbsp;[![Facebook Badge](https://img.shields.io/badge/-dineshkhanal-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://twitter.com/dinesh_khanal)](https://twitter.com/dinesh_khanal)&nbsp;[![Twitter Badge](https://img.shields.io/badge/-@dinesh_khanal-1ca0f?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dinesh_khanal)](https://twitter.com/dinesh_khanal)
 
 ### Technology I used most often
 
