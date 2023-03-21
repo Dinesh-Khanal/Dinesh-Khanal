@@ -1,5 +1,6 @@
-### Hi there, I am Dinesh Khanal 👋
-Hi I'm Dinesh Khanal a Full Stack Web Developer. I Spend most of time coding outstanding projects. I am working as a freelancer and also contributing open source software.
+### Hi there, I am Dinesh Khanal ![image](https://user-images.githubusercontent.com/50364027/226514792-776ad0a4-a5f2-49fb-8022-8e6f5c7c9232.png)
+
+I'm Dinesh Khanal a Full Stack Web Developer. I Spend most of time coding outstanding projects. I am working as a freelancer and also contributing open source software.
 <!--
 **Dinesh-Khanal/Dinesh-Khanal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
