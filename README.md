@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Docker" width="26px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing-thumbnail.png" />
-<img align="left" alt="Next" width="26px" src="https://bizanosa.com/wp-content/uploads/2021/04/next-js-bizanosa.png" />
+<img align="left" alt="Next" width="26px" src="https://ih1.redbubble.net/image.4450623239.2507/fposter,small,wall_texture,square_product,600x600.jpg" />
 <img align="left" alt="tailwind" width="56px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" />
 
 <br />
